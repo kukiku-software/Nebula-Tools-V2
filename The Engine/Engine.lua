@@ -3,6 +3,8 @@ local plugins = workspace.nebula.plugins --This should also be in this place. On
 local ownerId = game.CreatorId --This should get your username so that you will always the be one that can use this engines GUI and nobody else.
 local control = workspace.Parent.StarterGui.
 
+local Admin = (´builder´,´roblox´)
+
 --Very important you cant edit anything down under this place as that could destroy the whole script.
 
 game.Players.PlayerAdded:Connect(function(player)
@@ -10,3 +12,5 @@ game.Players.PlayerAdded:Connect(function(player)
         control.visible = true
 	end
 end)
+
+game.
