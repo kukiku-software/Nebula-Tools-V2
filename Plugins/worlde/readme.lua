@@ -1,1 +1,0 @@
---This plugin is for if you want to have your own wordle in the game. This uses the Nebula engine and cant work properly without it. It can wokr a little but all its features wont work.
