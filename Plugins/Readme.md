@@ -1,1 +1,1 @@
-To 
+In the template folder download the file for the plugin you want to create. Currently its against the rules to monotize any of your apps or websites.
